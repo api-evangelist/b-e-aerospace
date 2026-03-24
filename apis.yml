@@ -1,0 +1,7 @@
+aid: b-e-aerospace
+url: https://raw.githubusercontent.com/api-evangelist/b-e-aerospace/refs/heads/main/apis.yml
+modified: '2026-03-23'
+apis: []
+common:
+  - type: Website
+    url: https://www.b-e-aerospace.com
