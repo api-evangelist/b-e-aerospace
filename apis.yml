@@ -1,7 +1,11 @@
 aid: b-e-aerospace
-url: https://raw.githubusercontent.com/api-evangelist/b-e-aerospace/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/b-e-aerospace/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.b-e-aerospace.com
+description: >-
+  B/E Aerospace is a manufacturer of aircraft cabin interior products and a provider
+  of aerospace services for commercial aircraft and business jets.
