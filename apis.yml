@@ -10,13 +10,13 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Aerospace
-- Aircraft Cabin Interiors
-- Aviation
-- Business Jets
-- Collins Aerospace
-- Manufacturing
-- Rockwell Collins
+  - Aerospace
+  - Aircraft Cabin Interiors
+  - Aviation
+  - Business Jets
+  - Collins Aerospace
+  - Manufacturing
+  - Rockwell Collins
 url: >-
   https://raw.githubusercontent.com/api-evangelist/b-e-aerospace/refs/heads/main/apis.yml
 created: '2024-01-01'
@@ -24,10 +24,12 @@ modified: '2026-04-19'
 specificationVersion: '0.19'
 apis: []
 common:
-- type: Documentation
-  url: https://www.collinsaerospace.com/
-- type: GitHubOrganization
-  url: https://github.com/CollinsAerospace
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/be-aerospace
+  - type: Documentation
+    url: https://www.collinsaerospace.com/
+  - type: GitHubOrganization
+    url: https://github.com/CollinsAerospace
 maintainers:
-- FN: Kin Lane
-  email: kin@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
