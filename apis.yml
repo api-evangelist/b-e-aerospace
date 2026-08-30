@@ -46,6 +46,11 @@ modified: '2026-04-19'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/rockwell-collins/
+    name: Rockwell Collins
+    x-relationship: acquired
+    x-evidence: "The company was acquired by Rockwell Collins in 2017 and subsequently merged into Collins Aerospace (a Raytheon Technologies subsidiary) in 2020."
   - type: LinkedIn
     url: https://www.linkedin.com/company/be-aerospace
   - type: Documentation
