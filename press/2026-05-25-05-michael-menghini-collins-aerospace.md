@@ -1,7 +1,9 @@
 ---
 title: Michael Menghini - Collins Aerospace
 url: https://www.linkedin.com/in/michael-menghini
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"B/E Aerospace" press release artificial intelligence'
 position: 5
 source: serpapi-google

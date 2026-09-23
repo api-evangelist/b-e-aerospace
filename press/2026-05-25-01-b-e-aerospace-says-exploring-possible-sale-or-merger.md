@@ -1,7 +1,9 @@
 ---
 title: B/E Aerospace says exploring possible sale or merger
 url: https://www.reuters.com/article/world/americas/be-aerospace-says-exploring-possible-sale-or-merger-idUSBREA4305Y/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"B/E Aerospace" press release artificial intelligence'
 position: 1
 source: serpapi-google

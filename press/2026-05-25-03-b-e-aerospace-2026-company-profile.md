@@ -1,7 +1,9 @@
 ---
 title: B/E Aerospace 2026 Company Profile
 url: https://pitchbook.com/profiles/company/41058-46
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"B/E Aerospace" press release artificial intelligence'
 position: 3
 source: serpapi-google
